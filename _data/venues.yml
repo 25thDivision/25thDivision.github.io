@@ -1,5 +1,5 @@
 "QCE":
-  url: https://qce.quantum.ieee.org/
+  url: https://qce.quantum.ieee.org/2026/
   color: "#00629b"
 
 "WWW":
@@ -8,6 +8,3 @@
 
 "KCS":
   color: "#5a5a5a"
-
-"Membr. J.":
-  color: "#2e7d32"

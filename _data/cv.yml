@@ -21,7 +21,7 @@ cv:
     Education:
       - institution: Yonsei University
         location: Incheon, Republic of Korea
-        url: https://www.yonsei.ac.kr/en_sc/
+        url: https://www.yonsei.ac.kr/en_sc/index.do
         area: School of Integrated Technology
         studyType: M.S.
         start_date: 2026-09
@@ -31,7 +31,7 @@ cv:
 
       - institution: Yonsei University
         location: Incheon, Republic of Korea
-        url: https://www.yonsei.ac.kr/en_sc/
+        url: https://www.yonsei.ac.kr/en_sc/index.do
         area: Underwood International College, Integrated Science and Engineering Division (School of Integrated Technology)
         studyType: B.S.
         start_date: 2020-03
@@ -39,18 +39,18 @@ cv:
 
     Experience:
       - company: Seamless Trans-X Lab (STL), Yonsei University
-        position: Graduate Research Assistant
+        position: M.S. Student
         location: Incheon, Republic of Korea
         start_date: 2026-09
         end_date: present
         highlights:
-          - Quantum optimization for active ETF strategy design within a hybrid quantum-classical pipeline
+          - Quantum optimization for active ETF design within a hybrid quantum-classical pipeline
           - Administrator of the lab's shared GPU server for quantum simulation and machine learning workloads
 
       - company: Seamless Trans-X Lab (STL), Yonsei University
-        position: Undergraduate Researcher
+        position: Undergraduate Student
         location: Incheon, Republic of Korea
-        start_date: TODO
+        start_date: 2020-03
         end_date: 2026-08
         highlights:
           - Benchmarked machine learning-based quantum error correction decoders (CNN, GNN, Graph Transformer, Graph Mamba) on surface, color, and heavy-hex codes
@@ -72,7 +72,7 @@ cv:
           - Hyeonseong Jung
           - Yunah Choi
           - Shiho Kim
-        publisher: IEEE International Conference on Quantum Computing and Engineering (QCE), QuBench Workshop
+        publisher: "QuBench @ IEEE Quantum Week 2026"
         releaseDate: 2026-09
 
       - title: "Blind-QEM: A Privacy-Preserving Framework for Quantum Error Mitigation via Zero-Knowledge Proofs"
@@ -84,7 +84,7 @@ cv:
           - Yunah Choi
           - Seokhyeon Son
           - Shiho Kim
-        publisher: Companion Proceedings of the ACM Web Conference 2026 (WWW '26 Companion), ZABAPAD Workshop
+        publisher: "WWW '26: The ACM Web Conference 2026, ZABAPAD Workshop"
         releaseDate: 2026-06-29
         url: https://dl.acm.org/doi/10.1145/3774905.3794699
 
@@ -97,7 +97,7 @@ cv:
           - Jeihee Cho
           - Seokhyeon Son
           - Shiho Kim
-        publisher: Companion Proceedings of the ACM Web Conference 2026 (WWW '26 Companion), ZABAPAD Workshop
+        publisher: "WWW '26: The ACM Web Conference 2026, ZABAPAD Workshop"
         releaseDate: 2026-06-29
         url: https://dl.acm.org/doi/10.1145/3774905.3794696
 
@@ -135,7 +135,7 @@ cv:
 
     Memberships:
       - name: IEEE
-        summary: Member
+        summary: Student Member
 
     Languages:
       - name: Korean

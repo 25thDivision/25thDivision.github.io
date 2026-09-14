@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. student, <a href="https://www.yonsei.ac.kr/en_sc/" target="_blank">Yonsei University</a> · Seamless Trans-X Lab
+subtitle: M.S. student, <a href="https://www.yonsei.ac.kr/en_sc/index.do" target="_blank">Yonsei University</a> · Seamless Trans-X Lab
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an M.S. student in the Seamless Trans-X Lab (STL) at Yonsei University, advised by Prof. Shiho Kim. My current research is on quantum computing for finance, in particular the design of actively managed ETF strategies using quantum optimization within a hybrid quantum–classical pipeline.
+I am an M.S. student in the Seamless Trans-X Lab (STL) at Yonsei University, advised by Prof. Shiho Kim. My current research is on quantum computing for finance, in particular active ETF design using quantum optimization within a hybrid quantum–classical pipeline.
 
 Before this, my work centered on machine learning–based decoders for quantum error correction, with a focus on how decoders trained in simulation transfer to real quantum hardware. I benchmarked neural decoders (CNN, GNN, Graph Transformer, and Graph Mamba variants) on surface, color, and heavy-hex codes and validated them on IonQ Forte-1 and IBM Heron/Nighthawk processors.
 
