@@ -101,6 +101,25 @@ cv:
         releaseDate: 2026-06-29
         url: https://dl.acm.org/doi/10.1145/3774905.3794696
 
+      - title: Trade-off between Inference Time and Error Correction Rate for Machine Learning based Quantum Error Correction
+        authors:
+          - Seokhyeon Son
+          - Junyong Lee
+          - Jeihee Cho
+          - et al.
+          - Shiho Kim
+        publisher: KICS Winter Conference (KCS 2026), poster
+        releaseDate: 2026-01
+        url: https://www.researchgate.net/publication/401704420_Trade-off_between_Inference_Time_and_Error_Correction_Rate_for_Machine_Learning_based_Quantum_Error_Correction
+
+      - title: Covalent Organic Framework-Based Membrane for Fuel Cell Application
+        authors:
+          - Seokhyeon Son
+          - Rajkumar Patel
+        publisher: Membrane Journal, 35(3), 235-241
+        releaseDate: 2025-09
+        url: https://doi.org/10.14579/MEMBRANE_JOURNAL.2025.35.3.235
+
     Skills:
       - name: Quantum Computing
         icon: fa-solid fa-atom
