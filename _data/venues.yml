@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"QCE":
+  url: https://qce.quantum.ieee.org/
+  color: "#00629b"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"WWW":
+  url: https://www2026.thewebconf.org/
+  color: "#1a1a1a"
