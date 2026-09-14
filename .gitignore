@@ -8,7 +8,7 @@ _site
 .sass-cache
 .tweet-cache
 .venv
-.patch
+*.patch
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
 al-folio-upgrade-report.md
